@@ -1,0 +1,10 @@
+@ARTICLE{1019475,
+  author={Astolfi, A. and Liu Hsu and Netto, M.S. and Ortega, R.},
+  journal={IEEE Transactions on Robotics and Automation}, 
+  title={Two solutions to the adaptive visual servoing problem}, 
+  year={2002},
+  volume={18},
+  number={3},
+  pages={387-392},
+  keywords={Visual servoing;Cameras;Manipulator dynamics;Nonlinear dynamical systems;Pi control;Proportional control;Programmable control;Adaptive control;Error correction;Trajectory},
+  doi={10.1109/TRA.2002.1019475}}
